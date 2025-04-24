@@ -41,7 +41,7 @@ $data = json_decode($response, true);
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 100%;
+            max-width: 98%;
             margin: 20px auto;
             padding: 20px;
             background-color: #f0f2f5;
