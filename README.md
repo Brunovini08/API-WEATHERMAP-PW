@@ -19,4 +19,4 @@ GET https://api.openweathermap.org/data/2.5/weather?lat=-21.4061&lon=-48.5047&ap
 ![image](https://github.com/user-attachments/assets/6c2fc8eb-4ace-447c-8a00-52b2e42d4290)
 
 
-
+## Integrantes: Nicolas, Bruno e Vitor
