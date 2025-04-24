@@ -16,5 +16,7 @@ Nosso objetivo foi criar uma API leve e funcional que consulta e exibe dados met
 
 ```http
 GET https://api.openweathermap.org/data/2.5/weather?lat=-21.4061&lon=-48.5047&appid={SUA_API_KEY}
-![image](https://github.com/user-attachments/assets/7d49a01a-84ed-490b-a2af-fb089ce3fc5c)
+![image](https://github.com/user-attachments/assets/6c2fc8eb-4ace-447c-8a00-52b2e42d4290)
+
+
 
